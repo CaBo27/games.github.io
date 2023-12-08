@@ -14,6 +14,7 @@ function setup() {
   textSize(14);  
 }
 
+
 function draw() {
   background('grey');
   image(strand,strandX,0);
